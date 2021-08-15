@@ -1,0 +1,32 @@
+.wrapper{
+    z-index: 10;
+}
+.extra{
+    background-color: transparent;
+    border:2px solid #ffc513;
+     color:white;
+     padding:15px 20px;
+     display: inline-block;
+     margin-top: 15px;
+}
+.wrapper a{
+text-decoration:none;
+color:white;
+
+}
+.extra:hover{
+    background-color:white;
+    color:black;
+ 
+}
+.header-txt1{
+    color: white;
+    text-align: justify;
+    font-size: 70px;
+    
+}
+.header-txt2{
+    color: #FFC513;
+    text-align: justify;
+    font-size: 60px;
+}

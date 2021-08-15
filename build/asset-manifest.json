@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8beb00e.chunk.css",
+    "main.js": "/static/js/main.84170c99.chunk.js",
+    "main.js.map": "/static/js/main.84170c99.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.662cbdc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.662cbdc5.js.map",
+    "static/js/2.7680b69d.chunk.js": "/static/js/2.7680b69d.chunk.js",
+    "static/js/2.7680b69d.chunk.js.map": "/static/js/2.7680b69d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f8beb00e.chunk.css.map": "/static/css/main.f8beb00e.chunk.css.map",
+    "static/js/2.7680b69d.chunk.js.LICENSE.txt": "/static/js/2.7680b69d.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/static/media/appointmentBg.2eadc9a9.png",
+    "static/media/auto-1868726_640.94851daa.jpg": "/static/media/auto-1868726_640.94851daa.jpg",
+    "static/media/car-893224_640.5248bbd7.jpg": "/static/media/car-893224_640.5248bbd7.jpg",
+    "static/media/Header.css": "/static/media/car.594eaf9b.jpg",
+    "static/media/man-362150_640.aa5a84a0.jpg": "/static/media/man-362150_640.aa5a84a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662cbdc5.js",
+    "static/js/2.7680b69d.chunk.js",
+    "static/css/main.f8beb00e.chunk.css",
+    "static/js/main.84170c99.chunk.js"
+  ]
+}

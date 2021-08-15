@@ -1,0 +1,25 @@
+
+/* .card-deck{
+    background-color: #868E96;
+    margin-left: 5px;
+    
+} */
+.news{
+    color:#939393;
+    font-weight: 700;
+}
+h4{
+    color:#6b6b6b;
+    font-weight: 700;
+}
+h4:hover{
+    color:#ecdd08;
+}
+.read{
+    color:white;
+    background-color: #6b6b6b;
+    padding:5px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-decoration-style: none;
+}

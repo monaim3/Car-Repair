@@ -1,0 +1,17 @@
+img{
+    width:100%;
+ 
+}
+.features-service{
+    background-color: #495057;
+    color:white;
+}
+.features-service h1{
+    font-weight: 700;
+   
+}
+.call {
+	margin-top: 10px;
+	font-size: 33px;
+	color: #FDB62F;
+}

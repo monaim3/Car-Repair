@@ -1,0 +1,16 @@
+
+.testimonials .card{
+    border-color: transparent;
+}
+
+.testimonials .card .card-footer{
+    background: transparent;
+    border: 0;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+}
+.testimonials{
+    background-color: rgb(246, 240, 240);
+}
